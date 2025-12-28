@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there, I'm Anurag:
 I’m currently working on building real-world projects — a job board, quiz platform, AI based browser, desktop apps — and experimenting with systems that mix logic, UI, and a bit of AI.<br>I’m looking to collaborate on beginner-to-intermediate dev projects, open-source tools, or anything that solves an actual problem instead of just looking fancy.<br>I’m looking for help with system design, clean architecture, and scaling ideas beyond “it works on my machine”.<br>I’m currently learning Data Structures & Algorithms, deeper JavaScript/React, and practical AI integration in apps.<br>Ask me about Python, C, basic web dev, project ideas, or how to turn a random thought into a working project.<br>Fun fact: I care more about understanding how something works than finishing it fast — and that’s usually how my best projects start.
 
 
