@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Anurag</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=34eb71&center=true&vCenter=true&width=700&lines=Built+with+curiosity%2C+refined+by+iteration.;Exploring+AI+and+backend+systems.;Early+beginner%2C+focused+on+learning+by+building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=34eb71&center=true&vCenter=true&width=700&lines=Built+with+curiosity%2C+refined+by+iteration.;Exploring+AI+and+Backend+systems.;Code.+Break.+Learn.+Repeat." />
 </p>
 
 ---
