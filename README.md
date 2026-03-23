@@ -29,25 +29,24 @@ I aim to build software that blends **logic, usability, and intent**.
 
 <p align="center">
   <a href="https://instagram.com/po.anurag4">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/anurag-po">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anuragpo393@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://anurag-po.github.io/portfolioweb/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="tel:7863086776">
-    <img src="https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=googlevoice&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=googlevoice&logoColor=white"/>
   </a>
   <a href="https://wa.me/917863086776">
-    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FF0033"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
