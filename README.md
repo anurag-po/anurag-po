@@ -1,22 +1,119 @@
-#                                         Hey there, I'm Anurag 
-I’m a Computer Science student who genuinely enjoys building things from scratch and understanding why they work, not just making them work. I lean heavily toward a builder mindset with tools, systems, and projects that solve real problems or explore interesting ideas.<br><br>💻 I primarily work with Python, C, and JavaScript, and I’m comfortable reading, debugging, and extending React-based codebases. Most of my projects revolve around practical applications like job boards, utilities, and small full-stack tools, often integrating APIs or automation where it makes sense.<br><br>🤖 I’m deeply interested in Artificial Intelligence, especially using AI responsibly inside applications rather than treating it as a black box. I like understanding the logic behind models, prompts, and integrations, and I’m actively working toward building AI-assisted systems that feel more human-aware than purely mechanical.<br><br>🧠 Right now, I’m strengthening my fundamentals in Data Structures & Algorithms while continuing to build side projects alongside it. I believe learning sticks best when theory and implementation go hand in hand.<br><br>✍️ Outside of pure tech, I enjoy writing stories — usually darker, thoughtful, and plot-driven. That interest leaks into my coding too: I care about flow, structure, and how users experience what I build.<br><br>🚀 Long term, I want to work on ambitious systems — software that blends logic, emotion, and scale — and keep improving by building, breaking, and rebuilding things better each time.
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Anurag</h1>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/po.anurag4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/po.anurag4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-po) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragpo393@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anurag-po&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anurag-po&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-po&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### Quote For today :)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&width=700&lines=I+explore+by+building.;I+learn+systems+by+breaking+them.;I+design+logic+that+feels+human." />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anurag-po&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I’m a Computer Science student who prefers **understanding systems deeply** over just making them work.
+
+- I build practical tools — job boards, utilities, and full-stack apps  
+
+- Strong with **Python, C, JavaScript**, and React-based systems  
+
+- Exploring **AI integration in real applications** (not just APIs, but reasoning)  
+
+- Currently focused on **Data Structures & Algorithms + backend depth**  
+
+- I write — which shapes how I design flow, structure, and user experience  
+
+I aim to build software that blends **logic, usability, and intent**.
+
+---
+
+## ⚡ Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/po.anurag4">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0033"/>
+  </a>
+  <a href="https://linkedin.com/in/anurag-po">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0033"/>
+  </a>
+  <a href="mailto:anuragpo393@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0033"/>
+  </a>
+  <a href="https://anurag-po.github.io/portfolioweb/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF0033"/>
+  </a>
+  <a href="tel:7863086776">
+    <img src="https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=googlevoice&logoColor=FF0033"/>
+  </a>
+  <a href="https://wa.me/917863086776">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FF0033"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-po&show_icons=true&theme=dark&hide_border=true&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anurag-po&theme=dark&hide_border=true&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&background=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-po&layout=compact&theme=dark&hide_border=true&title_color=FF0033&text_color=FFFFFF&bg_color=000000" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/anurag-po/anurag-po/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF0033"/>
+
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=FF0033"/>
+
+<img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF0033"/>
+
+<img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=FF0033"/>
+
+<img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF0033"/>
+
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FF0033"/>
+
+</p>
+
+---
+
+## 🧾 Quote
+
+> “Build to understand. Break to improve. Repeat until it feels right.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anurag-po&color=FF0033&style=flat-square" />
+</p>
