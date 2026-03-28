@@ -64,9 +64,8 @@ I aim to build software that blends **logic, usability, and intent**.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anurag-po/anurag-po/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/anurag-po/anurag-po/output/github-contribution-grid-snake-dark.svg?v=3" />
 </p>
-
 ---
 
 ## ⚙️ Tech Stack
