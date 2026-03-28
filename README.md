@@ -52,10 +52,6 @@ I aim to build software that blends **logic, usability, and intent**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-po&show_icons=true&theme=dark&hide_border=true&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&bg_color=000000" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=anurag-po&theme=dark&hide_border=true&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&background=000000" />
 </p>
 
