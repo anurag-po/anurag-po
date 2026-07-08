@@ -1,129 +1,89 @@
-# Anurag Puthiyaveetil Othayoth
+<picture>
+  <img alt="Anurag P.O." src="./banner.svg" width="100%" />
+</picture>
 
-I build AI systems, computer vision pipelines, and developer tools that make complicated workflows feel simple.
+<br/>
 
-I recently completed a software development internship at **Gujarat Alkalies & Chemicals Limited (GACL)**, where I built an offline computer vision and OCR pipeline for extracting structured data from industrial HMI dashboards using OpenCV, PaddleOCR, and custom table reconstruction algorithms.
+Second-year B.Tech CS student at GCET, Vadodara. I ship full-stack and AI systems, then get them into production — most recently an offline computer vision pipeline running on a chemical plant floor.
 
-Outside of work, you'll usually find me playing chess, or building AI-native software, experimenting with local-first applications, or trying to understand why a system works instead of stopping once it works.
+**[anuragpo.is-a.dev](https://anuragpo.is-a.dev/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anurag-po) &nbsp;·&nbsp; anuragpo393@gmail.com**
 
----
+<br/>
 
-## What I'm working on
+### GACL — Industrial OCR Pipeline
 
-### Mnemosyne
+A month into my internship at Gujarat Alkalies & Chemicals Limited, my mentor sat me down in front of a SCADA dashboard and said the standard OCR tools weren't holding up on the UI. I built a replacement: an offline pipeline that reads live HMI tables through an IP camera, reconstructs them with custom grid detection and line regression (the off-the-shelf models kept producing phantom columns and misaligned diagonal cells), runs it through PaddleOCR, and exports to Excel with a human-review step before anything is finalized. No data leaves the building. It now runs at near-100% accuracy.
 
-A research project exploring experience-based memory architectures for conversational agents.
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-0a0a0a?style=flat-square) ![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-0a0a0a?style=flat-square)
 
-Instead of treating documents as the fundamental unit of retrieval, Mnemosyne stores **experiences** as structured episodes. Semantic knowledge, skills, relationships, long-term summaries, and insights are all derived from those experiences, while retrieval is guided by explainable associations rather than vector similarity alone.
+<br/>
 
-The goal isn't to build another chatbot. It's to build a reusable memory layer that can sit in front of any language model.
+### Projects
 
-**Industrial OCR at GACL (Recently Completed)**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>ALEX</strong> — Adaptive Logic EXecutor
+      <br/><br/>
+      A deterministic AI execution layer. Natural language in, schema-validated JSON out; every action runs through a controlled function registry instead of unrestricted tool calls. Voice + text input, real-time overlay UI.
+      <br/><br/>
+      <img alt="Python" src="https://img.shields.io/badge/-Python-0a0a0a?style=flat-square" />
+      <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-0a0a0a?style=flat-square" />
+      <img alt="PySide6" src="https://img.shields.io/badge/-PySide6-0a0a0a?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>MinuteMind</strong> — AI Meeting Execution
+      <br/><br/>
+      Turns meeting transcripts into structured, owned tasks through an async LLM pipeline with validation logic for missing owners and deadlines. Cut pilot workflow turnaround from 6 days to 2.
+      <br/><br/>
+      <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-0a0a0a?style=flat-square" />
+      <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-0a0a0a?style=flat-square" />
+      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-0a0a0a?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Nexlyra</strong> — Productivity Browser
+      <br/><br/>
+      A keyboard-first desktop browser. Instead of treating every input as a URL, it classifies intent and routes to sites, search, or an AI assistant automatically.
+      <br/><br/>
+      <img alt="Electron" src="https://img.shields.io/badge/-Electron-0a0a0a?style=flat-square" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Mnemosyne</strong> <em>— in progress</em>
+      <br/><br/>
+      A memory layer for conversational agents that stores experiences as structured episodes instead of retrieving flat documents, with retrieval guided by explainable associations rather than vector similarity alone.
+      <br/><br/>
+      <img alt="Python" src="https://img.shields.io/badge/-Python-0a0a0a?style=flat-square" />
+      <img alt="LLMs" src="https://img.shields.io/badge/-LLMs-0a0a0a?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-Building an offline pipeline that converts industrial HMI dashboards into structured Excel data using:
+<br/>
 
-- OpenCV
-- PaddleOCR
-- Grid detection
-- Line regression
-- OCR coordinate alignment
-- Image preprocessing
-- Color segmentation
+### Stack
 
-The goal is reliability over cleverness. Every extracted value should be explainable. 
+<table>
+  <tr>
+    <td valign="top"><strong>Languages</strong></td>
+    <td>Python · JavaScript · C++</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI / CV</strong></td>
+    <td>OpenCV · PaddleOCR · LLM integration (Claude, Gemini)</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend</strong></td>
+    <td>FastAPI · PostgreSQL · Supabase</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend / Desktop</strong></td>
+    <td>React · Next.js · Electron · PySide6</td>
+  </tr>
+</table>
 
-I'm also spending time improving backend engineering fundamentals, data structures, algorithms, and system design.
-
-Note: The project is proprietry to GACL, so there's not a repo for it. For details regarding the project, reach me at my contacts at the end of the profile.
-
----
-
-## Projects
-
-### ALEX
-
-An AI workflow engine that converts natural language into structured, executable workflows.
-
-Instead of allowing unrestricted tool calls, every action passes through schema validation and a controlled execution layer, making the system deterministic and predictable.
-
-**Python · FastAPI · PySide6 · LLMs**
-
----
-
-### MinuteMind
-
-A meeting execution system that transforms transcripts into structured tasks through an asynchronous LLM pipeline.
-
-Built with validation, task lifecycle management, and automated ownership detection. During pilot deployment, it reduced workflow turnaround from **6 days to 2 days**.
-
-**FastAPI · Next.js · Supabase · Python**
-
----
-
-### Nexlyra
-
-A keyboard-first desktop browser built with Electron.
-
-Instead of treating everything as a URL, Nexlyra understands intent and routes input to websites, search engines, or AI assistants automatically.
-
-**Electron · JavaScript · Node.js**
-
----
-
-## Technologies I enjoy working with
-
-**Languages**
-
-Python • JavaScript • C++ • C
-
-**AI & Computer Vision**
-
-OpenCV • PaddleOCR • EasyOCR • OpenAI API • Gemini API • scikit-learn • spaCy
-
-**Backend**
-
-FastAPI • PostgreSQL • MySQL • REST APIs • Supabase
-
-**Frontend & Desktop**
-
-React • Next.js • Electron • PySide6 • Tailwind CSS
-
-**Infrastructure**
-
-Docker • Git • GitHub • Vercel • Render
-
----
-
-## Currently exploring
-
-- Backend engineering
-- Distributed systems
-- Retrieval and RAG systems
-- Software architecture
-- AI agents with deterministic execution
-- Developer experience
-
----
-
-## Recognition
-
-- HackerRank Certified Software Engineer
-- Build with Claude API Certificate
-- Electronic Arts Software Engineering Virtual Experience Program (Forage)
-
----
-
-## Elsewhere
-
-**Email**  
-anuragpo393@gmail.com
-
-**LinkedIn**  
-https://linkedin.com/in/anurag-po
-
-**Portfolio**  
-https://anuragpo.is-a.dev/
-
----
+<br/>
 
 > Build to understand. Refine until it feels inevitable.
